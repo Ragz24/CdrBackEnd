@@ -1,0 +1,1 @@
+1MmsCdr(messageId=MMS-1697513255136, senderPhoneNumber=+91679200623, receiverPhoneNumber=+91636801330, messageDirection=Incoming, messageType=MMS, networkType=4G, contentType=Audio, contentSize=100, contentFormat=mpeg, senderTimestampStr=2023-10-07 21:14:46, receiverTimestampStr=N/A, messageStatus=Failed)

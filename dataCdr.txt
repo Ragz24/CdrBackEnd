@@ -1,0 +1,1 @@
+DataCdr(sessionStartTime=2022-10-17 07:25:25, sessionEndTime=2022-10-17 08:45:04, sessionDirection=Outgoing, sessionType=Video Streaming, sessionDuration=79, sessionStatus=Completed, dataUsage=171, callerIPAddress=110.150.2.13, calleeIPAddress=224.7.38.214)

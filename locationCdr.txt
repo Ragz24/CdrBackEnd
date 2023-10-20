@@ -1,0 +1,1 @@
+LLocationCdr(updateTimestamp=2023-06-21 04:46:24, cellID=Cell2537, latitude=-34.13829776998399, longitude=4.950083802984523, locationAreaCode=4533, roamingStatus=Home Network, signalStrength=-53, locationAccuracy=69.54412393676353, locationSource=GPS (Global Positioning System), locationMethod=Multilateration, imei=028441530403214)
